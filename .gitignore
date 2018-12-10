@@ -1,4 +1,4 @@
-### https://raw.github.com/github/gitignore/4a8e0a151becd5ccbb83e4aca6e6c195f3d506fd/Global/Windows.gitignore
+### https://raw.github.com/github/gitignore/e313e296c1e284d908adcb95bf4f2812617d4de1/Global/Windows.gitignore
 
 # Windows thumbnail cache files
 Thumbs.db
@@ -25,7 +25,7 @@ $RECYCLE.BIN/
 *.lnk
 
 
-### https://raw.github.com/github/gitignore/4a8e0a151becd5ccbb83e4aca6e6c195f3d506fd/Global/Linux.gitignore
+### https://raw.github.com/github/gitignore/e313e296c1e284d908adcb95bf4f2812617d4de1/Global/Linux.gitignore
 
 *~
 
@@ -42,7 +42,7 @@ $RECYCLE.BIN/
 .nfs*
 
 
-### https://raw.github.com/github/gitignore/4a8e0a151becd5ccbb83e4aca6e6c195f3d506fd/Global/macOS.gitignore
+### https://raw.github.com/github/gitignore/e313e296c1e284d908adcb95bf4f2812617d4de1/Global/macOS.gitignore
 
 # General
 .DS_Store
